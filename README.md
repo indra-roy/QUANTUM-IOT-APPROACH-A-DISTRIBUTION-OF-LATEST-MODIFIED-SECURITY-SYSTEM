@@ -1,0 +1,2 @@
+# QUANTUM-IOT-APPROACH-A-DISTRIBUTION-OF-LATEST-MODIFIED-SECURITY-SYSTEM
+The exponential growth of Internet of Things (IoT) devices in almost every field implies one of the primary factors is securing the data exchanged and received by the devices. There is a complimentary increase in computer power by the adversaries that are minimizing the competitive edge of the existing cryptographic solutions. 
